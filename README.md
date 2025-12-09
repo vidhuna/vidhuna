@@ -2,13 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Vidhuna%20V&desc=Java%20Developer&descAlign=68&descAlignY=65&animation=fadeIn" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
-
-</div>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Build+Strong+fundamentals+in+DSA;Loves+turning+ideas+into+code;Growing+one+commit+at+a+time;Aiming+to+build+impactful+projects" alt="Typing SVG" /></a>
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabariyuhendh&color=8B5CF6&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 ![GitHub User's stars](https://img.shields.io/github/stars/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
